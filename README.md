@@ -40,3 +40,8 @@ def __x3():
 if __name__ == "__main__":
     __x3()
 ```
+---
+
+### 📖 Bonus
+
+→ [The Magic of Git: An Epic Conversation Between Two Devs](./the_magic_of_Git.md)
